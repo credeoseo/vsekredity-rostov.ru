@@ -1,0 +1,4 @@
+Sitemap: https://vsekredity-rostov.ru/sitemap.xml
+
+User-agent: *
+Disallow:
